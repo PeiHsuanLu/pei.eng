@@ -90,7 +90,7 @@ body{ margin:0; padding:0;  background:#f2f2f2;}
 .circle { border-radius: 100%;}
 h1 { padding: 20px 0; font-size: 36px; font-weight: 800; color:#4c4c4c; }
 .box { width:1000px; border-radius:8px; background: #fff;}
-.tag { position:relative; width:455px; height: 36px; border-radius: 0 36px 36px 0; text-align: left;  background: #C6B3A0;}
+.tag { position:relative; width:350px; height: 36px; border-radius: 0 36px 36px 0; text-align: left;  background: #C6B3A0;}
 .tag p { margin-left: 160px; color: #fff; line-height: 36px; font-size: 20px;}
 
 .Area1 { position:relative; margin-bottom:25px; margin-top:-100px; height:270px; } 
@@ -132,7 +132,7 @@ h1 { padding: 20px 0; font-size: 36px; font-weight: 800; color:#4c4c4c; }
 .Area4 .portfolio li.button a { padding: 0 10px; line-height: 50px; font-size: 24px; font-weight: 800; color:#fff;}
 
 	@media screen and (max-width:767px){
-	.Area_top { height:126vw; }
+	.Area_top { height:130vw; }
 	.Area_top .title { padding-top:10vw; font-size: 15vw; }
 	.Area_top p {  font-size: 5vw; padding-bottom: 3vw;}
 	.icon-button { margin:0 auto; padding: 0 7%; width:100%;  height:auto;}
@@ -140,7 +140,7 @@ h1 { padding: 20px 0; font-size: 36px; font-weight: 800; color:#4c4c4c; }
 
 	h1 { padding: 5vw 2vw 0; font-size: 10vw; }
 	.box { width:95% }
-	.tag { width:75vw; height: 9vw; }
+	.tag { width:50vw; height: 9vw; }
 	.tag p { margin-left: 6vw; line-height: 10vw; font-size: 5vw; text-align: left;}
 
 	.Area1 { margin-bottom:3vw; margin-top:-70px; height:105vw; z-index: 9;}
@@ -155,7 +155,7 @@ h1 { padding: 20px 0; font-size: 36px; font-weight: 800; color:#4c4c4c; }
 	.Area2 ul li.school { width:100%; height:auto;}
 	.Area2 .works { display: block; height: 35em; width:100%;  }
 		
-	.Area3 { height: 220vw; }
+	.Area3 { height: 230vw; }
 	.Area3 ul { padding: 0 5vw; }
 	.Area3 ul li.subtitle { font-size: 5vw; text-align:left; padding: 0;  }
 	.Area3 ul li.school { width:100%; height:auto;}
