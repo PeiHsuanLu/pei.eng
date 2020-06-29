@@ -132,7 +132,7 @@ h1 { padding: 20px 0; font-size: 36px; font-weight: 800; color:#4c4c4c; }
 .Area4 .portfolio li.button a { padding: 0 10px; line-height: 50px; font-size: 24px; font-weight: 800; color:#fff;}
 
 	@media screen and (max-width:767px){
-	.Area_top { height:130vw; }
+	.Area_top { height:126vw; }
 	.Area_top .title { padding-top:10vw; font-size: 15vw; }
 	.Area_top p {  font-size: 5vw; padding-bottom: 3vw;}
 	.icon-button { margin:0 auto; padding: 0 7%; width:100%;  height:auto;}
